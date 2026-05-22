@@ -57,7 +57,7 @@ Após atualizar id 1: [
 
 ```
 prog2.tri2.ativ2/
-├── todo.ts          → código principal com banco de dados
+├── core.ts          → código principal com banco de dados
 ├── database.sqlite  → banco SQLite (criado automaticamente)
 └── README.md        → este arquivo
 ```
