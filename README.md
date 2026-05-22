@@ -18,7 +18,7 @@ Projeto de lista de tarefas usando **Bun** como runtime e **SQLite** como banco 
 cd prog2.tri2.ativ2
 
 # 2. Rode o arquivo
-bun run index.ts
+bun run core.ts
 ```
 
 O arquivo `database.sqlite` será criado automaticamente na primeira execução.
@@ -30,7 +30,7 @@ O arquivo `database.sqlite` será criado automaticamente na primeira execução.
 Ao rodar o arquivo, o próprio código já executa um teste automático no final, mostrando no terminal o resultado de cada operação:
 
 ```bash
-bun run todo.ts
+bun run core.ts
 ```
 
 Saída esperada no terminal:
